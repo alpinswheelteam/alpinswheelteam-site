@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'fr-fr'
+title = "Alpin's Wheel Team"
+theme = "paper"
