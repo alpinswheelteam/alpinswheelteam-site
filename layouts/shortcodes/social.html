@@ -1,0 +1,7 @@
+
+<br />
+{{ range .Site.Data.social }}
+    <div class="btn btn-light">
+    <a href="{{ .link }}"><img src="{{ .image_large }}" style="height:3em;"/></a>
+    </div>
+{{ end }}

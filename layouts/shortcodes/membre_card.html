@@ -1,0 +1,14 @@
+
+  <div class="col">
+  <div class="card h-100">
+    <img class="card-img-top p-1" src="{{ .Get "image" }}" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">{{ .Get "nom" }}</h5>
+      <p class="card-text"> {{ .Get "role" }}<br>
+
+      {{ with .Get "ffc" }} FFC {{ . }}<br /> {{ end }}
+      {{ with .Get "fsgt" }} FSGT {{ . }}<br /> {{ end }}
+      {{ with .Get "ufolep" }} UFOLEP {{ . }}<br /> {{ end }}
+    </div>
+  </div>
+  </div>

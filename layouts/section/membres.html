@@ -1,0 +1,38 @@
+{{ define "title" }}{{ .Site.Title }}{{ end}}
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-home{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+
+{{ define "main" }}
+<div class="container">
+    <h1 class="title">{{ .Title | default .Site.Title }}</h1>
+    <div class="content m-1">
+{{ .Content }}
+    <div class="row row-cols-1 row-cols-md-4 g-4">
+        {{ range .Site.Data.membres }}
+        <div class="col">
+            <div class="card h-100">
+                <img class="card-img-top p-1" src="{{ .image }}" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">{{ .nom }}</h5>
+                    <p class="card-text"> {{ .role }}<br>
+        
+                        {{ with .ffc }} FFC {{ . }}<br /> {{ end }}
+                        {{ with .fsgt }} FSGT {{ . }}<br /> {{ end }}
+                        {{ with .ufolep }} UFOLEP {{ . }}<br /> {{ end }}
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+
+    </div>
+
+</div>
+
+
+{{ end }}
+
+{{ define "footer_js" }}
+{{ end }}

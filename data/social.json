@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/alpinswheelteam",
+        "image": "images/social/facebook.svg",
+        "image_large": "images/social/facebook_large.svg"
+    },
+    {
+        "name": "Strava",
+        "link": "https://www.strava.com/clubs/alpin-s-wheel-team-36723?hl=fr-FR",
+        "image": "images/social/strava.svg",
+        "image_large": "images/social/strava_large.svg"
+    }
+]

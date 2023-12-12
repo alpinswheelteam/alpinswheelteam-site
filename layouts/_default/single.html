@@ -1,0 +1,18 @@
+{{ define "title" }}{{ .Site.Title }}{{ end}}
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-home{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+
+{{ define "main" }}
+<div class="container text-left">
+  <h1 class="title">{{ .Title | default .Site.Title }}</h1>
+  <div class="content">
+    {{ .Content }}
+  </div>
+</div>
+
+{{ end }}
+
+{{ define "footer_js" }}
+{{ end }}

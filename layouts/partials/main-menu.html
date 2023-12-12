@@ -1,0 +1,15 @@
+<div id="main-menu" class="main-menu">
+  <ul>
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+    <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
+      <a href="{{ .URL }}">
+        <span>{{ .Name }}</span>
+      </a>
+    </li>
+    {{end}}
+    <li class="menu-item">
+      <a href="https://www.alpinswheel.fr/"><img height="50" alt="Logo" src="{{ .Site.Params.logo.right | relURL }}" /></a>
+    </li>
+  </ul>
+</div>
