@@ -8,6 +8,10 @@ weight: 1
 Comité Auvergne-Rhônes-Alpes FFC : toutes les actualités du comité, le calendrier, les résultats des courses...  
 [http://www.auvergnerhonealpescyclisme.com/](http://www.auvergnerhonealpescyclisme.com/)
 
+Collectif Féminin Isère : regroupement de coureuses FFC de différents clubs d'Isère pour organiser des entraînements en commun et des déplacements sur des courses de niveau régional et national.  
+[Instagram](https://www.instagram.com/collectif_feminin_isere/) , 
+[Facebook](https://www.facebook.com/CollectifFemininIsere/)
+
 ![UFOLEP](/images/ufolep.webp)
 
 Site commission nationale cyclosport Ufolep : engagements championnats, infos diverses.  
@@ -15,7 +19,7 @@ Site commission nationale cyclosport Ufolep : engagements championnats, infos di
 
 ![UFOLEP](/images/fsgt.webp)
 
-FSGT 69 Rhône: calendrier FSGT 69, préinscription (obligatoire pour les licenciés UFOLEP et FFC)  
+FSGT 69 Rhône : calendrier FSGT 69, préinscription (obligatoire pour les licenciés UFOLEP et FFC)  
 [http://www.cyclismerhonefsgt.fr/](http://www.cyclismerhonefsgt.fr/)
 
 FSGT 73  
@@ -23,5 +27,5 @@ FSGT 73
 
 ![Youtube](/images/youtube.png)
 
-ALPES CYCLISME: chaîne d'un des membres du club.  
+ALPES CYCLISME : chaîne d'un des membres du club.  
 [https://www.youtube.com/@alpescyclisme](https://www.youtube.com/@alpescyclisme)

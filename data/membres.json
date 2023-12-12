@@ -1,11 +1,13 @@
 [
     {
         "nom": "Aline Marguet",
+        "ffc": "Collectif Féminin Isère",
         "image": "../images/aline.png",
         "role": "Présidente"
     },
     {
-        "nom": "Céline Schüller",
+        "nom": "Céline Schuller",
+        "ffc": "Collectif Féminin Isère",
         "image": "../images/femme.jpeg",
         "role": "Secrétaire"
     },
@@ -77,7 +79,7 @@
         "ufolep": "F",
         "ffc": "Access",
         "image": "../images/agnes.jpg",
-        "role": "Coureur"
+        "role": "Coureuse"
     },
     {
         "nom": "Guillaume Tramond",
