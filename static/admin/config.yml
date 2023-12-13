@@ -1,7 +1,6 @@
-local_backend: true
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to main)
+  branch: master # Branch to update (optional; defaults to main)
 media_folder: 'static/images/'
 public_folder: '/images/'
 collections:
