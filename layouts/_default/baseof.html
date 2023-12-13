@@ -7,7 +7,9 @@
   <title>{{ block "title" . }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {{ block "meta_tags" . }}{{end}}
+  
   <link rel="icon" href="{{ "favicon.ico" | absURL}}">
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
   {{ if .Site.IsServer }}
   {{ $style := resources.Get "scss/style.scss" | toCSS (dict "targetPath" "css/style.css" "enableSourceMap" true) }}
