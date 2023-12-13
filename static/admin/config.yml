@@ -1,0 +1,97 @@
+local_backend: true
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to main)
+media_folder: 'static/images/'
+public_folder: '/images/'
+collections:
+  - name: 'posts' # Used in routes, e.g., /admin/collections/blog
+    label: 'Posts' # Used in the UI
+    folder: 'content/posts' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Featured Image', name: 'thumbnail', widget: 'image' }
+      - { label: 'Rating (scale of 1-5)', name: 'rating', widget: 'number' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages' # Used in routes, e.g., /admin/collections/blog
+    label: 'Contenu' # Used in the UI
+    folder: content
+    create: true
+    nested:
+      depth: 100
+    fields: # The fields for each document, usually in front matter
+        - { label: 'Title', name: 'title', widget: 'string' }
+        - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'data' # Used in routes, e.g., /admin/collections/blog
+    label: 'Config' # Used in the UI
+    files:
+      - name: membres
+        label: Membres
+        file: data/membres.json
+        fields:
+          - name: membres
+            widget: list
+            label: Membres
+            create: true
+            delete: true
+            fields:
+              - name: nom
+                label: Nom
+                widget: string
+              - name: role
+                label: Rôle
+                widget: string
+              - name: image
+                label: Photo
+                widget: image
+              - name: ffc
+                label: FFC
+                widget: string
+              - name: ufolep
+                label: UFOLEP
+                widget: string
+              - name: fsgt
+                label: FSGT
+                widget: string
+      - name: photos
+        label: Photos
+        file: data/index_images.json
+        fields:
+          - name: accueil
+            widget: list
+            label: Photos
+            create: true
+            delete: true
+            fields:
+              - name: description
+                label: Description
+                widget: string
+              - name: image
+                label: Photo
+                widget: image
+      - name: social
+        label: Reseaux sociaux
+        file: data/social.json
+        fields:
+          - name: social
+            widget: list
+            label: Reseaux sociaux
+            create: true
+            delete: true
+            fields:
+              - name: name
+                label: Nom
+                widget: string
+              - name: link
+                label: Lien
+                widget: string
+              - name: image
+                label: Icone
+                widget: image
+              - name: image_large
+                label: Grand logo 
+                widget: image

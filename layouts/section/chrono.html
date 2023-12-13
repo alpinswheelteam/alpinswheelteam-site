@@ -1,0 +1,33 @@
+{{ define "title" }}{{ .Site.Title }}{{ end}}
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-home{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+
+{{ define "main" }}
+<div class="container text-left">
+    <h1 class="title">{{ .Title | default .Site.Title }}</h1>
+    <div class="content">
+        {{ .Content }}
+
+        
+
+        {{ with .Pages.ByDate | last 1 }}
+        {{ range .}}
+        {{ .Content }}
+        {{ end }}
+        {{ end }}
+
+        <h2>Autres éditions</h2>
+        {{ range .Pages.ByDate.Reverse | after 1 }}
+            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+    </div>
+</div>
+
+
+
+{{ end }}
+
+{{ define "footer_js" }}
+{{ end }}

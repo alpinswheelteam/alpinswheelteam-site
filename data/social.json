@@ -1,4 +1,6 @@
-[
+{
+    "social":
+    [
     {
         "name": "Facebook",
         "link": "https://www.facebook.com/alpinswheelteam",
@@ -12,3 +14,4 @@
         "image_large": "images/social/strava_large.svg"
     }
 ]
+}

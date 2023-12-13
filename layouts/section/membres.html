@@ -10,7 +10,7 @@
     <div class="content m-1">
 {{ .Content }}
     <div class="row row-cols-1 row-cols-md-4 g-4">
-        {{ range .Site.Data.membres }}
+        {{ range .Site.Data.membres.membres }}
         <div class="col">
             <div class="card h-100">
                 <img class="card-img-top p-1" src="{{ .image }}" alt="Card image cap">

@@ -1,6 +1,6 @@
 {{ if .Site.Data.social }}
 <div class="social">
-    {{ range .Site.Data.social }}
+    {{ range .Site.Data.social.social }}
     <a href="{{ .link }}" target="blank"><img height="{{ .Context.Scratch.Get "social_size" }}"
             width="{{ .Context.Scratch.Get "social_size" }}" src="{{ .image | relURL }}" title="{{ .name }}" alt="{{ .name }}" /></a>
     {{ end }}

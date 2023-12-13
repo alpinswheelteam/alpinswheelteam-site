@@ -1,44 +1,44 @@
-[
+{ "membres": [
     {
         "nom": "Aline Marguet",
         "ffc": "Collectif Féminin Isère",
-        "image": "../images/aline.png",
+        "image": "/images/aline.png",
         "role": "Présidente"
     },
     {
         "nom": "Céline Schuller",
         "ffc": "Collectif Féminin Isère",
-        "image": "../images/femme.jpeg",
+        "image": "/images/femme.jpeg",
         "role": "Secrétaire"
     },
     {
         "nom": "Timothée Wintz",
         "ffc": "Open 3",
         "ufolep": "1",
-        "image": "../images/tim.jpg",
+        "image": "/images/tim.jpg",
         "role": "Trésorier"
     },
     {
         "nom": "Céline Derain",
         "fsgt": "F",
         "ffc": "loisirs",
-        "image": "../images/femme.jpeg",
+        "image": "/images/femme.jpeg",
         "role": "Membre du Bureau"
     },
     {
         "nom": "Laurent Derain",
-        "image": "../images/homme.jpeg",
+        "image": "/images/homme.jpeg",
         "role": "Membre du Bureau"
     },
     {
         "nom": "Pascal Da Costa Barros",
         "fsgt": "4",
-        "image": "../images/homme.jpeg",
+        "image": "/images/homme.jpeg",
         "role": "Membre du Bureau"
     },
     {
         "nom": "Thierry Agud",
-        "image": "../images/thierry_a.jpg",
+        "image": "/images/thierry_a.jpg",
         "role": "Coureur",
         "ufolep": "2",
         "ffc": "Access"
@@ -47,44 +47,44 @@
         "nom": "Cédric Béjuis",
         "ffc": "Access 2",
         "fsgt": "2",
-        "image": "../images/cedric.png",
+        "image": "/images/cedric.png",
         "role": "Coureur"
     },
     {
         "nom": "Jules Béjuis",
         "ffc": "U13",
-        "image": "../images/jules.png",
+        "image": "/images/jules.png",
         "role": "Coureur"
     },
     {
         "nom": "Amaury Busato",
         "ufolep": "2",
-        "image": "../images/homme.jpeg",
+        "image": "/images/homme.jpeg",
         "role": "Coureur"
     },
     {
         "nom": "Nicolas Christoph",
         "ufolep": "3",
-        "image": "../images/homme.jpeg",
+        "image": "/images/homme.jpeg",
         "role": "Coureur"
     },
     
     {
         "nom": "Erwan Delriu",
-        "image": "../images/homme.jpeg",
+        "image": "/images/homme.jpeg",
         "role": "Coureur"
     },
     {
         "nom": "Agnès Hertault",
         "ufolep": "F",
         "ffc": "Access",
-        "image": "../images/agnes.jpg",
+        "image": "/images/agnes.jpg",
         "role": "Coureuse"
     },
     {
         "nom": "Guillaume Tramond",
         "ufolep": "3",  
-        "image": "../images/homme.jpeg",
+        "image": "/images/homme.jpeg",
         "role": "Coureur"
-    }
-]
+    }]
+}

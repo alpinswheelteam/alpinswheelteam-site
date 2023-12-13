@@ -17,7 +17,7 @@
         <div class="container mx-auto" style="max-width: 700px;">
         <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
-                {{ range $index, $element := .Site.Data.index_images }}
+                {{ range $index, $element := .Site.Data.index_images.accueil }}
                 {{ if eq $index 0 }}
                 <div class="carousel-item active">
                 {{ else }}
