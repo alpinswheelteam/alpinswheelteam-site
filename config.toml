@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://alpinswheelteam.fr/"
 languageCode = "fr-fr"
 title = "Alpin's Wheel Team"
 
@@ -52,8 +52,8 @@ summaryLength = 30
     meta_description = "Alpin's Wheel Team est un club cycliste de la région de Grenoble."
     meta_og_title = "Alpin's Wheel Team"
     meta_og_type = "website"
-    meta_og_url = "https://www.alpinswheelteam.fr"
-    meta_og_image = "https://www.alpinswheelteam.fr/images/alpinswheelteam.png"
+    meta_og_url = "https://alpinswheelteam.fr"
+    meta_og_image = "https://alpinswheelteam.fr/images/alpinswheelteam.png"
     meta_og_description = "Alpin's Wheel Team est un club cycliste de la région de Grenoble."
 
   [params.logo]
