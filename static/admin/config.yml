@@ -50,12 +50,15 @@ collections:
               - name: ffc
                 label: FFC
                 widget: string
+                required: false
               - name: ufolep
                 label: UFOLEP
                 widget: string
+                required: false
               - name: fsgt
                 label: FSGT
                 widget: string
+                required: false
       - name: photos
         label: Photos
         file: data/index_images.json
