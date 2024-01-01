@@ -57,6 +57,12 @@
         "role": "Coureur"
     },
     {
+        "nom": "Nicolas Blasquez",
+        "fsgt": "4",
+        "image": "/images/homme.jpeg",
+        "role": "Coureur"
+    },
+    {
         "nom": "Amaury Busato",
         "ufolep": "2",
         "image": "/images/homme.jpeg",
