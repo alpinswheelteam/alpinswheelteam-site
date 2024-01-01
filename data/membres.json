@@ -8,7 +8,7 @@
     {
         "nom": "Céline Schuller",
         "ffc": "Collectif Féminin Isère",
-        "image": "/images/femme.jpeg",
+        "image": "/images/celine_s_porte.jpg",
         "role": "Secrétaire"
     },
     {
@@ -22,7 +22,7 @@
         "nom": "Céline Derain",
         "fsgt": "F",
         "ffc": "loisirs",
-        "image": "/images/femme.jpeg",
+        "image": "/images/celine_d.jpg",
         "role": "Membre du Bureau"
     },
     {
@@ -59,7 +59,7 @@
     {
         "nom": "Nicolas Blasquez",
         "fsgt": "4",
-        "image": "/images/homme.jpeg",
+        "image": "/images/nicolas_b.jpg",
         "role": "Coureur"
     },
     {
@@ -90,7 +90,7 @@
     {
         "nom": "Guillaume Tramond",
         "ufolep": "3",  
-        "image": "/images/homme.jpeg",
+        "image": "/images/guillaume.jpg",
         "role": "Coureur"
     }]
 }
