@@ -88,6 +88,12 @@
         "role": "Coureuse"
     },
     {
+        "nom": "Kevin Matin",
+        "ffc": "Access 2",
+        "image": "/images/homme.jpeg",
+        "role": "Coureur"
+    },
+    {
         "nom": "Guillaume Tramond",
         "ufolep": "3",  
         "image": "/images/guillaume.jpg",
