@@ -12,4 +12,4 @@ result = []
 for nom in table_sorted.index:
     result.append({"nom": nom, "date": str(table_sorted["DATE"][nom].date()), "course": table_sorted["COURSE"][nom]})
 
-json.dump({"courses": result}, open("test.json", "w"), indent=4, ensure_ascii=False)
+json.dump({"courses": result}, open("data/courses.json", "w"), indent=4, ensure_ascii=False)
