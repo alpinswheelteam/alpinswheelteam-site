@@ -1,7 +1,6 @@
 name: Fetch Races
 
 on:
-  manual: 
   push:
     branches: [ $default-branch, $protected-branches, "github-action" ]
   schedule:
