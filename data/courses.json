@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "nom": "BEJUIS Jules",
+            "date": "2024-02-03",
+            "course": "Prix de Rancé"
+        },
+        {
+            "nom": "TRAMOND Guillaume",
+            "date": "2024-02-03",
+            "course": "Prix de Rancé"
+        },
+        {
+            "nom": "HERTAULT Agnès",
+            "date": "2024-02-25",
+            "course": "GP d'ouverture Grillon"
+        },
+        {
+            "nom": "WINTZ Timothée",
+            "date": "2024-02-25",
+            "course": "GP Ouverture Vénissieux"
+        }
+    ]
+}
