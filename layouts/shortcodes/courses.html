@@ -5,7 +5,7 @@
             <div class="card h-100">
                 <div class="card-body">
                     <h5 class="card-title">{{ .course }} ( {{ .federation }} {{ .departement }} )</h5>
-                    <h6 class="card-subtitle mb-2 text-body-secondary">{{ .date | time.Format ":date_long"  }}</h6>
+                    <h6 class="card-subtitle mb-2 text-body-secondary">{{ time.Format "2 Jan 2006" .date  }}</h6>
                     <p class="card-text"></p>
                     <ul>
                         {{ range .coureurs}}
