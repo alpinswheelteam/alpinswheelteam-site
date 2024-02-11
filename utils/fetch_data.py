@@ -9,10 +9,12 @@ now = pd.Timestamp.now()
 df["DATE"] = pd.to_datetime(df["DATE"], format="%d/%m", errors="coerce")
 df["DATE"] = df["DATE"].apply(lambda x: x.replace(year = now.year))
 
-df = df[df["DATE"] < pd.Timestamp.now() + 8 * pd.offsets.Week()]
+df = df[df["DATE"] < pd.Timestamp.now() + 3 * pd.offsets.Week()]
 df = df[:-8]
 df = df.sort_values("DATE")
 df = df[:4]
+
+membres_site = json.load(open("data/membres.json"))["membres"]
 
 result = {}
 for index, row in df.iterrows():
@@ -28,7 +30,24 @@ for index, row in df.iterrows():
         nom, prenom = coureur.split()
         nom = nom.lower().capitalize()
         prenom = prenom.lower().capitalize()
-        coureurs_formatted.append(f"{prenom} {nom}")
+        coureur_fmt = f"{prenom} {nom}"
+        found = False
+        for x in membres_site:
+            if coureur_fmt.replace("é", "e") == x["nom"].replace("é", "e"):
+                found = True
+                coureurs_formatted.append(
+                    {"nom": x["nom"],
+                     "image": x["image"],
+                    }
+                )
+                break
+        if not found:
+            coureurs_formatted.append(
+                    {"nom": coureur_fmt,
+                     "image": "/images/alphin_logo.png",
+                    }
+                )
+       
     course = index
     federation = row["FEDERATION"]
     departement = row["COMITE"]

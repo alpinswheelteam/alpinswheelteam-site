@@ -5,13 +5,24 @@
             <div class="card h-100">
                 <div class="card-body">
                     <h5 class="card-title">{{ .course }} - {{ .federation }} {{ .departement }}</h5>
-                    <h6 class="card-subtitle mb-2 text-body-secondary">{{ time.Format "2 Jan 2006" .date  }}</h6>
+                    <h6 class="card-subtitle mb-2 text-body-secondary">{{ time.Format "2 Jan 2006" .date }}</h6>
                     <p class="card-text"></p>
-                    <ul>
+                    <div class="row row-cols-3 justify-content-center">
+
                         {{ range .coureurs}}
-                        <p>{{ . }}</p>
+                        <div class="col">
+
+                            <div class="card mb-1">
+                                <img class="card-img-top p-1" src="{{ .image }}" alt="Card image cap">
+                                
+                                    <p class="fs-6">
+                                        {{ .nom }}
+                                    </p>
+                                
+                            </div>
+                        </div>
                         {{ end }}
-                    </ul>
+                    </div>
                     </p>
                 </div>
             </div>
@@ -19,6 +30,6 @@
         </div>
 
         {{ end }}
-        
+
     </div>
 </div>
