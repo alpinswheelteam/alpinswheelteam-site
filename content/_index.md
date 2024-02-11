@@ -8,6 +8,11 @@ _Alpin's Wheel Team_ est un club cycliste amateur Isérois affilié aux fédéra
 
 Suivez-nous sur les réseaux sociaux pour toute l'actualité du club : {{< social >}}
 
+## Prochains rendez-vous de la team
+
+{{< courses >}}
+
+
 ## Nous rejoindre
 
 Nous sommes actuellement ouverts au recrutement de nouveaux membres. Alors si vous cherchez un groupe pour pratiquer le cyclisme dans la bonne humeur et le respect des valeurs sportives, n'hésitez pas à nous contacter [par mail](mailto:alpinswheel.team@gmail.com), sur facebook, ou directement via un membre du club.

@@ -1,5 +1,12 @@
 baseURL = "https://alpinswheelteam.fr/"
-languageCode = "fr-fr"
+defaultContentLanguage = "fr"
+[languages]
+  [languages.fr]
+    languageCode = 'fr-fr'
+    languageDirection = 'ltr'
+    languageName = 'Français'
+    weight = 1
+
 title = "Alpin's Wheel Team"
 
 pygmentsCodeFences = true

@@ -1,24 +1,40 @@
 {
     "courses": [
         {
-            "nom": "BEJUIS Jules",
-            "date": "2024-02-03",
-            "course": "Prix de Rancé"
-        },
-        {
-            "nom": "TRAMOND Guillaume",
-            "date": "2024-02-03",
-            "course": "Prix de Rancé"
-        },
-        {
-            "nom": "HERTAULT Agnès",
+            "course": "GP Ouverture Vénissieux",
             "date": "2024-02-25",
-            "course": "GP d'ouverture Grillon"
+            "departement": "69",
+            "federation": "FSGT",
+            "coureurs": [
+                "Cédric Bejuis"
+            ]
         },
         {
-            "nom": "WINTZ Timothée",
+            "course": "GP d'ouverture Grillon",
             "date": "2024-02-25",
-            "course": "GP Ouverture Vénissieux"
+            "departement": "84",
+            "federation": "FSGT",
+            "coureurs": [
+                "Nicolas Blasquez"
+            ]
+        },
+        {
+            "course": "Prix de Rancé",
+            "date": "2024-03-02",
+            "departement": "69",
+            "federation": "FSGT",
+            "coureurs": [
+                "Cédric Bejuis"
+            ]
+        },
+        {
+            "course": "GP Y. Jullian (Cavaillon)",
+            "date": "2024-03-03",
+            "departement": "84",
+            "federation": "Ufolep",
+            "coureurs": [
+                "Timothée Wintz"
+            ]
         }
     ]
 }
