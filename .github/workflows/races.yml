@@ -2,7 +2,7 @@ name: Fetch Races
 
 on:
   push:
-    branches: [ $default-branch, $protected-branches, "github-action" ]
+    branches: [ $default-branch, $protected-branches, "github-action", "master" ]
   schedule:
     - cron: "0 0 * * *"
 
@@ -12,7 +12,7 @@ permissions:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "greet"
-  greet:
+  fetch:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -32,10 +32,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install pandas
 
-      - name: execute py script # run main.py
+      - name: Fetch race data # run main.py
         run: python utils/fetch_data.py
 
-      - name: GIT commit and push docs
+      - name: GIT commit and push races
         env: 
           CI_COMMIT_MESSAGE: Mise a jour courses
           CI_COMMIT_AUTHOR: Continuous Integration
