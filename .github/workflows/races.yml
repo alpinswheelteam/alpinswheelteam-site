@@ -40,8 +40,9 @@ jobs:
           CI_COMMIT_MESSAGE: Mise a jour courses
           CI_COMMIT_AUTHOR: Continuous Integration
         run: |
+          if [[ "$(git diff --exit-code data/courses.json)" =~ 'diff' ]]; then IS_VALID=true; else IS_VALID=false;fi
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
           git config --global user.email "twintz@users.noreply.github.com"
           git add data/courses.json
           git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
-          git push
+          if [[ $IS_VALID ]]; then git push; fi
