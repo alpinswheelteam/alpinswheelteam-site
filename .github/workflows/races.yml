@@ -42,5 +42,9 @@ jobs:
         run: |
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
           git config --global user.email "twintz@users.noreply.github.com"
-          if [[ ! "$(git diff --exit-code data/courses.json)" =~ 'diff' ]]; then git add data/courses.json && git commit -m "${{ env.CI_COMMIT_MESSAGE }}" && git push ;else NO_CHANGE=0; fi
+          if [[ ! -z "$(git diff --exit-code data/courses.json)" ]]; \
+            then git add data/courses.json && \
+            git commit -m "${{ env.CI_COMMIT_MESSAGE }}" && \
+            git push;
+          fi
   
