@@ -40,8 +40,7 @@ jobs:
           CI_COMMIT_MESSAGE: Mise a jour courses
           CI_COMMIT_AUTHOR: Continuous Integration
         run: |
-          if [[ ! "$(git diff --exit-code data/courses.json)" =~ 'diff' ]]; then NO_CHANGE=1 ;fi
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
           git config --global user.email "twintz@users.noreply.github.com"
-          git add data/courses.json
-          if [[ ! -z $NO_CHANGE ]]; then git commit -m "${{ env.CI_COMMIT_MESSAGE }}" && git push; fi
+          if [[ ! "$(git diff --exit-code data/courses.json)" =~ 'diff' ]]; then git add data/courses.json && git commit -m "${{ env.CI_COMMIT_MESSAGE }}" && git push ;else NO_CHANGE=0; fi
+  
