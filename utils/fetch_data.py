@@ -10,7 +10,8 @@ df["DATE"] = pd.to_datetime(df["DATE"], format="%d/%m", errors="coerce")
 df["DATE"] = df["DATE"].apply(lambda x: x.replace(year = now.year))
 
 df = df[:-8]
-df = df[df["DATE"] < pd.Timestamp.now() + 3 * pd.offsets.Week()]
+df = df[df["DATE"] >= pd.Timestamp.now() - 1 * pd.offsets.Day()]
+df = df[df["DATE"] < pd.Timestamp.now() + 2 * pd.offsets.Week()]
 df = df.sort_values("DATE")
 df = df[:4]
 
