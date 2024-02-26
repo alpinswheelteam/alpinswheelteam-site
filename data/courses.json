@@ -1,30 +1,6 @@
 {
     "courses": [
         {
-            "course": "GP d'ouverture Vénissieux",
-            "date": "2024-02-25",
-            "departement": "69",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                }
-            ]
-        },
-        {
-            "course": "GP d'ouverture Grillon",
-            "date": "2024-02-25",
-            "departement": "84",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Nicolas Blasquez",
-                    "image": "/images/nicolas_b.jpg"
-                }
-            ]
-        },
-        {
             "course": "Prix de Rancé",
             "date": "2024-03-02",
             "departement": "69",
