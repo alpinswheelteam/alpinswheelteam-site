@@ -23,6 +23,30 @@
                     "image": "/images/tim.jpg"
                 }
             ]
+        },
+        {
+            "course": "La Furette",
+            "date": "2024-03-03",
+            "departement": "38",
+            "federation": "FSGT",
+            "coureurs": [
+                {
+                    "nom": "Pascal Da Costa Barros",
+                    "image": "/images/homme.jpeg"
+                }
+            ]
+        },
+        {
+            "course": "GP d'Allevard - Open 3",
+            "date": "2024-03-10",
+            "departement": "38",
+            "federation": "FFC",
+            "coureurs": [
+                {
+                    "nom": "Kevin Matic",
+                    "image": "/images/homme.jpeg"
+                }
+            ]
         }
     ]
 }

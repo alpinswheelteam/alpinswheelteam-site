@@ -13,12 +13,14 @@ df = df[:-8]
 df = df[df["DATE"] >= pd.Timestamp.now() - 1 * pd.offsets.Day()]
 df = df[df["DATE"] < pd.Timestamp.now() + 2 * pd.offsets.Week()]
 df = df.sort_values("DATE")
-df = df[:4]
+#df = df[:4]
 
 membres_site = json.load(open("data/membres.json"))["membres"]
 
 result = {}
 for index, row in df.iterrows():
+    if len(result) >= 4:
+        break
     selection = row[5:]
     coureurs = selection.keys()
     choix = selection.values.astype(str)
@@ -27,10 +29,12 @@ for index, row in df.iterrows():
     coureurs_formatted = []
     if len(coureurs) == 0:
         continue
+    print(coureurs)
     for coureur in coureurs:
-        nom, prenom = coureur.split()
-        nom = nom.lower().capitalize()
-        prenom = prenom.lower().capitalize()
+        splitted =  coureur.split()
+        splitted = [x.capitalize() for x in splitted]
+        nom = " ".join(splitted[:-1])
+        prenom = splitted[-1]
         coureur_fmt = f"{prenom} {nom}"
         found = False
         for x in membres_site:
