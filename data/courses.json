@@ -1,30 +1,6 @@
 {
     "courses": [
         {
-            "course": "GP Saint James - Open 2",
-            "date": "2024-03-03",
-            "departement": "26",
-            "federation": "FFC",
-            "coureurs": [
-                {
-                    "nom": "Timothée Wintz",
-                    "image": "/images/tim.jpg"
-                }
-            ]
-        },
-        {
-            "course": "La Furette",
-            "date": "2024-03-03",
-            "departement": "38",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Pascal Da Costa Barros",
-                    "image": "/images/homme.jpeg"
-                }
-            ]
-        },
-        {
             "course": "GP d'Allevard - Open 3",
             "date": "2024-03-10",
             "departement": "38",
@@ -33,6 +9,10 @@
                 {
                     "nom": "Kevin Matic",
                     "image": "/images/homme.jpeg"
+                },
+                {
+                    "nom": "Timothée Wintz",
+                    "image": "/images/tim.jpg"
                 }
             ]
         },
@@ -49,6 +29,18 @@
                 {
                     "nom": "Timothée Wintz",
                     "image": "/images/tim.jpg"
+                }
+            ]
+        },
+        {
+            "course": "Prix de Pont d'Ain - Access",
+            "date": "2024-03-17",
+            "departement": "01",
+            "federation": "FFC",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
                 }
             ]
         }
