@@ -43,6 +43,18 @@
                     "image": "/images/cedric.png"
                 }
             ]
+        },
+        {
+            "course": "GP de Meyzieu",
+            "date": "2024-03-24",
+            "departement": "69",
+            "federation": "FSGT",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
+                }
+            ]
         }
     ]
 }
