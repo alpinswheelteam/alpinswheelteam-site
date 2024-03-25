@@ -1,18 +1,6 @@
 {
     "courses": [
         {
-            "course": "GP de Meyzieu",
-            "date": "2024-03-24",
-            "departement": "69",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                }
-            ]
-        },
-        {
             "course": "Circuit de la Bathie",
             "date": "2024-03-31",
             "departement": "73",
@@ -41,6 +29,18 @@
             "date": "2024-04-01",
             "departement": "38",
             "federation": "UFOLEP",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
+                }
+            ]
+        },
+        {
+            "course": "CLM Aiton",
+            "date": "2024-04-06",
+            "departement": "73",
+            "federation": "FSGT",
             "coureurs": [
                 {
                     "nom": "Cédric Béjuis",
