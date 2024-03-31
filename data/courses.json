@@ -13,18 +13,6 @@
             ]
         },
         {
-            "course": "GP d'Eurre",
-            "date": "2024-03-31",
-            "departement": "26",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Nicolas Blasquez",
-                    "image": "/images/nicolas_b.jpg"
-                }
-            ]
-        },
-        {
             "course": "GP d'Oyeu",
             "date": "2024-04-01",
             "departement": "38",
@@ -41,6 +29,22 @@
             "date": "2024-04-06",
             "departement": "73",
             "federation": "FSGT",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
+                },
+                {
+                    "nom": "Nicolas Blasquez",
+                    "image": "/images/nicolas_b.jpg"
+                }
+            ]
+        },
+        {
+            "course": "Prix des roues en elles - Access",
+            "date": "2024-04-07",
+            "departement": "38",
+            "federation": "FFC",
             "coureurs": [
                 {
                     "nom": "Cédric Béjuis",
