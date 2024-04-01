@@ -1,18 +1,6 @@
 {
     "courses": [
         {
-            "course": "Circuit de la Bathie",
-            "date": "2024-03-31",
-            "departement": "73",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Pascal Da Costa Barros",
-                    "image": "/images/pascal.jpg"
-                }
-            ]
-        },
-        {
             "course": "GP d'Oyeu",
             "date": "2024-04-01",
             "departement": "38",
@@ -49,6 +37,26 @@
                 {
                     "nom": "Cédric Béjuis",
                     "image": "/images/cedric.png"
+                }
+            ]
+        },
+        {
+            "course": "CLM de Chanaz",
+            "date": "2024-04-13",
+            "departement": "73",
+            "federation": "FSGT",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
+                },
+                {
+                    "nom": "Nicolas Blasquez",
+                    "image": "/images/nicolas_b.jpg"
+                },
+                {
+                    "nom": "Pascal Da Costa Barros",
+                    "image": "/images/pascal.jpg"
                 }
             ]
         }
