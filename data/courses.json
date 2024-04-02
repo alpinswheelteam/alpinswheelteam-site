@@ -1,18 +1,6 @@
 {
     "courses": [
         {
-            "course": "GP d'Oyeu",
-            "date": "2024-04-01",
-            "departement": "38",
-            "federation": "UFOLEP",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                }
-            ]
-        },
-        {
             "course": "CLM Aiton",
             "date": "2024-04-06",
             "departement": "73",
@@ -42,6 +30,26 @@
         },
         {
             "course": "CLM de Chanaz",
+            "date": "2024-04-13",
+            "departement": "73",
+            "federation": "FSGT",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
+                },
+                {
+                    "nom": "Nicolas Blasquez",
+                    "image": "/images/nicolas_b.jpg"
+                },
+                {
+                    "nom": "Pascal Da Costa Barros",
+                    "image": "/images/pascal.jpg"
+                }
+            ]
+        },
+        {
+            "course": "Gentlemen Chanaz 1",
             "date": "2024-04-13",
             "departement": "73",
             "federation": "FSGT",
