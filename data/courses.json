@@ -1,22 +1,6 @@
 {
     "courses": [
         {
-            "course": "CLM Aiton",
-            "date": "2024-04-06",
-            "departement": "73",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                },
-                {
-                    "nom": "Nicolas Blasquez",
-                    "image": "/images/nicolas_b.jpg"
-                }
-            ]
-        },
-        {
             "course": "Prix des roues en elles - Access",
             "date": "2024-04-07",
             "departement": "38",
@@ -62,6 +46,18 @@
                     "nom": "Nicolas Blasquez",
                     "image": "/images/nicolas_b.jpg"
                 },
+                {
+                    "nom": "Pascal Da Costa Barros",
+                    "image": "/images/pascal.jpg"
+                }
+            ]
+        },
+        {
+            "course": "Gentlemen Chanaz 2",
+            "date": "2024-04-13",
+            "departement": "73",
+            "federation": "FSGT",
+            "coureurs": [
                 {
                     "nom": "Pascal Da Costa Barros",
                     "image": "/images/pascal.jpg"
