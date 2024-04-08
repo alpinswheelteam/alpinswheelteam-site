@@ -1,18 +1,6 @@
 {
     "courses": [
         {
-            "course": "Prix des roues en elles - Access",
-            "date": "2024-04-07",
-            "departement": "38",
-            "federation": "FFC",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                }
-            ]
-        },
-        {
             "course": "CLM de Chanaz",
             "date": "2024-04-13",
             "departement": "73",
