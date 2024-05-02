@@ -1,36 +1,3 @@
 {
-    "courses": [
-        {
-            "course": "CLM la Bathie (championnat AURA CLM)",
-            "date": "2024-05-01",
-            "departement": "73",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                },
-                {
-                    "nom": "Nicolas Blasquez",
-                    "image": "/images/nicolas_b.jpg"
-                },
-                {
-                    "nom": "Pascal Da Costa Barros",
-                    "image": "/images/pascal.jpg"
-                }
-            ]
-        },
-        {
-            "course": "GP de la ville de Fontaine - Access",
-            "date": "2024-05-01",
-            "departement": "38",
-            "federation": "FFC",
-            "coureurs": [
-                {
-                    "nom": "Kevin Matic",
-                    "image": "/images/homme.jpeg"
-                }
-            ]
-        }
-    ]
+    "courses": []
 }
