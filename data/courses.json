@@ -11,6 +11,18 @@
                     "image": "/images/nicolas_b.jpg"
                 }
             ]
+        },
+        {
+            "course": "GP La Motte Servolex - Access",
+            "date": "2024-05-19",
+            "departement": "73",
+            "federation": "FFC",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
+                }
+            ]
         }
     ]
 }
