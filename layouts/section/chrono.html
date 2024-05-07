@@ -8,15 +8,14 @@
 <div class="container text-left">
     <h1 class="title">{{ .Title | default .Site.Title }}</h1>
     <div class="content">
-        {{ .Content }}
-
-        
-
         {{ with .Pages.ByDate | last 1 }}
         {{ range .}}
         {{ .Content }}
         {{ end }}
         {{ end }}
+
+        {{ .Content }}
+
 
         <h2>Autres éditions</h2>
         {{ range .Pages.ByDate.Reverse | after 1 }}
