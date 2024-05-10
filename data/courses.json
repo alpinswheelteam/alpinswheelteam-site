@@ -1,18 +1,6 @@
 {
     "courses": [
         {
-            "course": "GP de Belley - Access",
-            "date": "2024-05-09",
-            "departement": "01",
-            "federation": "FFC",
-            "coureurs": [
-                {
-                    "nom": "Kevin Matic",
-                    "image": "/images/homme.jpeg"
-                }
-            ]
-        },
-        {
             "course": "GP de Donessargues",
             "date": "2024-05-12",
             "departement": "30",
