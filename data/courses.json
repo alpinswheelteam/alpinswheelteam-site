@@ -1,18 +1,6 @@
 {
     "courses": [
         {
-            "course": "GP de Donessargues",
-            "date": "2024-05-12",
-            "departement": "30",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Nicolas Blasquez",
-                    "image": "/images/nicolas_b.jpg"
-                }
-            ]
-        },
-        {
             "course": "GP La Motte Servolex - Access",
             "date": "2024-05-19",
             "departement": "73",
