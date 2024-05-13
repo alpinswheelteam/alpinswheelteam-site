@@ -1,6 +1,18 @@
 {
     "courses": [
         {
+            "course": "GP Notre-Dame de l'Osier - Championnat dép.",
+            "date": "2024-05-19",
+            "departement": "38",
+            "federation": "UFOLEP",
+            "coureurs": [
+                {
+                    "nom": "Timothée Wintz",
+                    "image": "/images/tim.jpg"
+                }
+            ]
+        },
+        {
             "course": "GP La Motte Servolex - Access",
             "date": "2024-05-19",
             "departement": "73",
