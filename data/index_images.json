@@ -1,28 +1,22 @@
 {
   "accueil": [
     {
-      "image": "/images/IMG-20230501-WA0010.jpg",
-      "description": "Aline et Céline sur le GP De Fontaine"
+      "image": "/images/carousel/32f680b3-af02-49c8-86f5-fcad9f9f2666.jpeg"
     },
     {
-      "image": "/images/IMG-20230715-WA0003.jpg",
-      "description": "Agnès au championnat National UFOLEP"
+      "image": "/images/carousel/04360df0-bafe-4f0c-b3fd-9c3547211e39.jpeg"
     },
     {
-      "image": "/images/20230721_161302.jpg",
-      "description": "Florent au masters CLM"
+      "image": "/images/carousel/c7977b21-6d81-4fba-a110-e347e9e93e85.jpeg"
     },
     {
-      "image": "/images/IMG-20230923-WA0000.jpg",
-      "description": "CLM de Culoz"
+      "image": "/images/carousel/d0d625bc-e0cd-4336-8844-a33ad8da708a.jpeg"
     },
     {
-      "image": "/images/347091171_1390788418129381_2603638097607237361_n.jpg",
-      "description": "Coupe de France N2 "
+      "image": "/images/carousel/ddb6d018-4f01-4ced-ab3b-e1abaefb8e15.jpeg"
     },
     {
-      "image": "/images/IMG-20231008-WA0001.jpg",
-      "description": "Thierry M au championnats du monde masters sur piste."
+      "image": "/images/carousel/dea7ffd8-cc04-42ec-9a25-808b588f5062.jpeg"
     }
   ]
 }
