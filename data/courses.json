@@ -7,6 +7,10 @@
             "federation": "UFOLEP",
             "coureurs": [
                 {
+                    "nom": "Agnès Hertault",
+                    "image": "/images/agnes.jpg"
+                },
+                {
                     "nom": "Timothée Wintz",
                     "image": "/images/tim.jpg"
                 }
