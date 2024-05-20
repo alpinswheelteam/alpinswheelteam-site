@@ -1,36 +1,3 @@
 {
-    "courses": [
-        {
-            "course": "GP Notre-Dame de l'Osier - Championnat dép.",
-            "date": "2024-05-19",
-            "departement": "38",
-            "federation": "UFOLEP",
-            "coureurs": [
-                {
-                    "nom": "Thierry Agud",
-                    "image": "/images/thierry_a.jpg"
-                },
-                {
-                    "nom": "Agnès Hertault",
-                    "image": "/images/agnes.jpg"
-                },
-                {
-                    "nom": "Timothée Wintz",
-                    "image": "/images/tim.jpg"
-                }
-            ]
-        },
-        {
-            "course": "GP La Motte Servolex - Access",
-            "date": "2024-05-19",
-            "departement": "73",
-            "federation": "FFC",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                }
-            ]
-        }
-    ]
+    "courses": []
 }
