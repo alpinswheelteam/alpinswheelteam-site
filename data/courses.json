@@ -1,18 +1,6 @@
 {
     "courses": [
         {
-            "course": "Prix De Miribel - Les Echets",
-            "date": "2024-05-26",
-            "departement": "01",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                }
-            ]
-        },
-        {
             "course": "Chrono du Vercors",
             "date": "2024-06-08",
             "departement": "38",
