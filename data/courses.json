@@ -27,6 +27,38 @@
                     "image": "/images/cedric.png"
                 }
             ]
+        },
+        {
+            "course": "CLM Treffort - Individuel",
+            "date": "2024-06-15",
+            "departement": "69",
+            "federation": "FSGT",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
+                },
+                {
+                    "nom": "Nicolas Blasquez",
+                    "image": "/images/nicolas_b.jpg"
+                }
+            ]
+        },
+        {
+            "course": "CLM Treffort - Gentlemen",
+            "date": "2024-06-15",
+            "departement": "69",
+            "federation": "FSGT",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
+                },
+                {
+                    "nom": "Nicolas Blasquez",
+                    "image": "/images/nicolas_b.jpg"
+                }
+            ]
         }
     ]
 }
