@@ -10,7 +10,7 @@ Le chrono du Vercors aura lieu le **8 juin 2024**. Départs toutes les minutes e
 
 ## Inscriptions
 
-Pour vous inscrire, rendez-vous sur HelloAsso:
+Pour vous inscrire, rendez-vous sur HelloAsso. Fin des inscriptions le **Jeudi 6 juin 2024**, pas d'inscriptions sur place !
 
 https://www.helloasso.com/associations/alpins-wheel-team/adhesions/chrono-du-vercors-8-juin-2024
 
