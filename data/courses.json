@@ -7,12 +7,24 @@
             "federation": "UFOLEP",
             "coureurs": [
                 {
+                    "nom": "Thierry Agud",
+                    "image": "/images/thierry_a.jpg"
+                },
+                {
                     "nom": "Cédric Béjuis",
                     "image": "/images/cedric.png"
                 },
                 {
                     "nom": "Nicolas Blasquez",
                     "image": "/images/nicolas_b.jpg"
+                },
+                {
+                    "nom": "Pascal Da Costa Barros",
+                    "image": "/images/pascal.jpg"
+                },
+                {
+                    "nom": "Agnès Hertault",
+                    "image": "/images/agnes.jpg"
                 }
             ]
         },
