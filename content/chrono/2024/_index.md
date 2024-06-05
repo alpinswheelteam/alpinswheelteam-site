@@ -6,12 +6,4 @@ weight: 1
 
 ## Edition 2024
 
-Le chrono du Vercors aura lieu le **8 juin 2024**. Départs toutes les minutes en individuel à partir de 12h, suivi des gentlemen. Remise des prix à partir de 16h. 
-
-## Inscriptions
-
-Pour vous inscrire, rendez-vous sur HelloAsso. Fin des inscriptions le **jeudi 6 juin 2024**, pas d'inscriptions sur place !
-
-https://www.helloasso.com/associations/alpins-wheel-team/adhesions/chrono-du-vercors-8-juin-2024
-
-![CDV](/images/chrono/chrono_2024.png)
+Le chrono du Vercors 2024 est **ANNULÉ** pour cause de travaux sur le parcours.
