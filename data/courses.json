@@ -1,34 +1,6 @@
 {
     "courses": [
         {
-            "course": "Chrono du Vercors",
-            "date": "2024-06-08",
-            "departement": "38",
-            "federation": "UFOLEP",
-            "coureurs": [
-                {
-                    "nom": "Thierry Agud",
-                    "image": "/images/thierry_a.jpg"
-                },
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                },
-                {
-                    "nom": "Nicolas Blasquez",
-                    "image": "/images/nicolas_b.jpg"
-                },
-                {
-                    "nom": "Pascal Da Costa Barros",
-                    "image": "/images/pascal.jpg"
-                },
-                {
-                    "nom": "Agnès Hertault",
-                    "image": "/images/agnes.jpg"
-                }
-            ]
-        },
-        {
             "course": "GP JP Falconnier (Culoz) - Access",
             "date": "2024-06-09",
             "departement": "01",
