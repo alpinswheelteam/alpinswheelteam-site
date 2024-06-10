@@ -1,18 +1,6 @@
 {
     "courses": [
         {
-            "course": "GP JP Falconnier (Culoz) - Access",
-            "date": "2024-06-09",
-            "departement": "01",
-            "federation": "FFC",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                }
-            ]
-        },
-        {
             "course": "CLM Treffort - Individuel",
             "date": "2024-06-15",
             "departement": "69",
