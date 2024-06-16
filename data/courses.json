@@ -11,6 +11,18 @@
                     "image": "/images/cedric.png"
                 }
             ]
+        },
+        {
+            "course": "GP du Versoud",
+            "date": "2024-06-30",
+            "departement": "38",
+            "federation": "UFOLEP",
+            "coureurs": [
+                {
+                    "nom": "Timothée Wintz",
+                    "image": "/images/tim.jpg"
+                }
+            ]
         }
     ]
 }
