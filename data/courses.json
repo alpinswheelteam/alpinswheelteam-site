@@ -1,11 +1,27 @@
 {
     "courses": [
         {
+            "course": "Grimpée du Peuil",
+            "date": "2024-06-29",
+            "departement": "38",
+            "federation": "UFOLEP",
+            "coureurs": [
+                {
+                    "nom": "Aline Marguet",
+                    "image": "/images/aline.jpg"
+                }
+            ]
+        },
+        {
             "course": "GP du Versoud",
             "date": "2024-06-30",
             "departement": "38",
             "federation": "UFOLEP",
             "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
+                },
                 {
                     "nom": "Kevin Matic",
                     "image": "/images/homme.jpeg"
