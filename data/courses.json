@@ -1,26 +1,6 @@
 {
     "courses": [
         {
-            "course": "GP du Versoud",
-            "date": "2024-06-30",
-            "departement": "38",
-            "federation": "UFOLEP",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                },
-                {
-                    "nom": "Kevin Matic",
-                    "image": "/images/homme.jpeg"
-                },
-                {
-                    "nom": "Timothée Wintz",
-                    "image": "/images/tim.jpg"
-                }
-            ]
-        },
-        {
             "course": "GP Charvieu - Open 2",
             "date": "2024-07-14",
             "departement": "38",
