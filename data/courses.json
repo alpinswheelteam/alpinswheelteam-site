@@ -1,18 +1,6 @@
 {
     "courses": [
         {
-            "course": "GP Charvieu - Open 2",
-            "date": "2024-07-14",
-            "departement": "38",
-            "federation": "FFC",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                }
-            ]
-        },
-        {
             "course": "Prologue GP Chamoux sur Gelon - Access",
             "date": "2024-07-28",
             "departement": "73",
