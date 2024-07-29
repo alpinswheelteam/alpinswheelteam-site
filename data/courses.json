@@ -1,16 +1,3 @@
 {
-    "courses": [
-        {
-            "course": "Prologue GP Chamoux sur Gelon - Access",
-            "date": "2024-07-28",
-            "departement": "73",
-            "federation": "FFC",
-            "coureurs": [
-                {
-                    "nom": "Kevin Matic",
-                    "image": "/images/homme.jpeg"
-                }
-            ]
-        }
-    ]
+    "courses": []
 }
