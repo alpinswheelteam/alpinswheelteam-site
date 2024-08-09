@@ -1,3 +1,16 @@
 {
-    "courses": []
+    "courses": [
+        {
+            "course": "Champ. France Masters - Saint-Pardoux-le-Lac",
+            "date": "2024-08-23",
+            "departement": "27",
+            "federation": "FFC",
+            "coureurs": [
+                {
+                    "nom": "Aline Marguet",
+                    "image": "/images/aline.jpg"
+                }
+            ]
+        }
+    ]
 }
