@@ -1,7 +1,7 @@
 {
     "courses": [
         {
-            "course": "Champ. France Masters - Saint-Pardoux-le-Lac",
+            "course": "Champ. France Masters - Saint-Pardoux-le-Lac - CLM",
             "date": "2024-08-23",
             "departement": "27",
             "federation": "FFC",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "course": "Champ. France Masters - Saint-Pardoux-le-Lac.2",
+            "course": "Champ. France Masters - Saint-Pardoux-le-Lac",
             "date": "2024-08-25",
             "departement": "27",
             "federation": "FFC",
