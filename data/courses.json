@@ -43,6 +43,18 @@
                     "image": "/images/cedric.png"
                 }
             ]
+        },
+        {
+            "course": "CLM du Plateau - Brénod",
+            "date": "2024-08-31",
+            "departement": "69",
+            "federation": "FSGT",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
+                }
+            ]
         }
     ]
 }
