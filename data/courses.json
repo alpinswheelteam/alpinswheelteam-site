@@ -33,8 +33,8 @@
             ]
         },
         {
-            "course": "CLM Montgrimoux",
-            "date": "2024-08-25",
+            "course": "GP R+R St Vulbas",
+            "date": "2024-09-01",
             "departement": "69",
             "federation": "FSGT",
             "coureurs": [
@@ -45,14 +45,14 @@
             ]
         },
         {
-            "course": "CLM du Plateau - Brénod",
-            "date": "2024-08-31",
-            "departement": "69",
-            "federation": "FSGT",
+            "course": "CLM des gorges de la Nesque",
+            "date": "2024-09-01",
+            "departement": "84",
+            "federation": "FFC",
             "coureurs": [
                 {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
+                    "nom": "Nicolas Blasquez",
+                    "image": "/images/nicolas_b.jpg"
                 }
             ]
         }
