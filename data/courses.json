@@ -25,6 +25,22 @@
             ]
         },
         {
+            "course": "Murianette - 1000 Grimpeurs",
+            "date": "2024-09-07",
+            "departement": "38",
+            "federation": "UFOLEP",
+            "coureurs": [
+                {
+                    "nom": "Aline Marguet",
+                    "image": "/images/aline.jpg"
+                },
+                {
+                    "nom": "Timothée Wintz",
+                    "image": "/images/tim.jpg"
+                }
+            ]
+        },
+        {
             "course": "Belley - Access",
             "date": "2024-09-07",
             "departement": "01",
