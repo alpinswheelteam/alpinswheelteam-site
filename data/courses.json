@@ -1,30 +1,6 @@
 {
     "courses": [
         {
-            "course": "GP R+R St Vulbas",
-            "date": "2024-09-01",
-            "departement": "69",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                }
-            ]
-        },
-        {
-            "course": "CLM des gorges de la Nesque",
-            "date": "2024-09-01",
-            "departement": "84",
-            "federation": "FFC",
-            "coureurs": [
-                {
-                    "nom": "Nicolas Blasquez",
-                    "image": "/images/nicolas_b.jpg"
-                }
-            ]
-        },
-        {
             "course": "Murianette - 1000 Grimpeurs",
             "date": "2024-09-07",
             "departement": "38",
@@ -49,6 +25,30 @@
                 {
                     "nom": "Kevin Matic",
                     "image": "/images/homme.jpeg"
+                }
+            ]
+        },
+        {
+            "course": "CLM des Chambarans",
+            "date": "2024-09-14",
+            "departement": "38",
+            "federation": "UFOLEP",
+            "coureurs": [
+                {
+                    "nom": "Aline Marguet",
+                    "image": "/images/aline.jpg"
+                }
+            ]
+        },
+        {
+            "course": "GP La Chapelle de la Tour",
+            "date": "2024-09-15",
+            "departement": "38",
+            "federation": "UFOLEP",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
                 }
             ]
         }
