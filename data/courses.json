@@ -1,18 +1,6 @@
 {
     "courses": [
         {
-            "course": "CLM des Chambarans",
-            "date": "2024-09-14",
-            "departement": "38",
-            "federation": "UFOLEP",
-            "coureurs": [
-                {
-                    "nom": "Aline Marguet",
-                    "image": "/images/aline.jpg"
-                }
-            ]
-        },
-        {
             "course": "GP La Chapelle de la Tour",
             "date": "2024-09-15",
             "departement": "38",
@@ -49,6 +37,18 @@
                 {
                     "nom": "Céline Derain",
                     "image": "/images/celine_d.jpg"
+                }
+            ]
+        },
+        {
+            "course": "Chrono de St Georges",
+            "date": "2024-09-22",
+            "departement": "38",
+            "federation": "FSGT",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
                 }
             ]
         }
