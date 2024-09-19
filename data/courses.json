@@ -23,6 +23,10 @@
                     "image": "/images/cedric.png"
                 },
                 {
+                    "nom": "Pascal Da Costa Barros",
+                    "image": "/images/pascal.jpg"
+                },
+                {
                     "nom": "Céline Derain",
                     "image": "/images/celine_d.jpg"
                 }
@@ -37,6 +41,10 @@
                 {
                     "nom": "Cédric Béjuis",
                     "image": "/images/cedric.png"
+                },
+                {
+                    "nom": "Pascal Da Costa Barros",
+                    "image": "/images/pascal.jpg"
                 }
             ]
         },
@@ -49,6 +57,10 @@
                 {
                     "nom": "Cédric Béjuis",
                     "image": "/images/cedric.png"
+                },
+                {
+                    "nom": "Pascal Da Costa Barros",
+                    "image": "/images/pascal.jpg"
                 }
             ]
         }
