@@ -1,46 +1,6 @@
 {
     "courses": [
         {
-            "course": "Chrono de St Georges (Gentleman)",
-            "date": "2024-09-22",
-            "departement": "38",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                },
-                {
-                    "nom": "Pascal Da Costa Barros",
-                    "image": "/images/pascal.jpg"
-                },
-                {
-                    "nom": "Céline Derain",
-                    "image": "/images/celine_d.jpg"
-                }
-            ]
-        },
-        {
-            "course": "Chrono de St Georges",
-            "date": "2024-09-22",
-            "departement": "38",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                },
-                {
-                    "nom": "Nicolas Blasquez",
-                    "image": "/images/nicolas_b.jpg"
-                },
-                {
-                    "nom": "Pascal Da Costa Barros",
-                    "image": "/images/pascal.jpg"
-                }
-            ]
-        },
-        {
             "course": "CLM du Plateau - Brénod",
             "date": "2024-09-28",
             "departement": "69",
@@ -69,6 +29,38 @@
                 {
                     "nom": "Pascal Da Costa Barros",
                     "image": "/images/pascal.jpg"
+                },
+                {
+                    "nom": "Céline Derain",
+                    "image": "/images/celine_d.jpg"
+                }
+            ]
+        },
+        {
+            "course": "Chronos de Corbas - Champ dép 69",
+            "date": "2024-09-29",
+            "departement": "69",
+            "federation": "FSGT",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
+                },
+                {
+                    "nom": "Pascal Da Costa Barros",
+                    "image": "/images/pascal.jpg"
+                }
+            ]
+        },
+        {
+            "course": "Chrono GEIQ Cour et Buis",
+            "date": "2024-10-06",
+            "departement": "69",
+            "federation": "FSGT",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
                 }
             ]
         }
