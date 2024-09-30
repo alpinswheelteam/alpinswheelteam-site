@@ -1,18 +1,6 @@
 {
     "courses": [
         {
-            "course": "Chronos de Corbas - Champ dép 69",
-            "date": "2024-09-29",
-            "departement": "69",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                }
-            ]
-        },
-        {
             "course": "Chrono GEIQ Cour et Buis",
             "date": "2024-10-06",
             "departement": "69",
