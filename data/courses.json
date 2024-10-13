@@ -9,6 +9,10 @@
                 {
                     "nom": "Cédric Béjuis",
                     "image": "/images/cedric.png"
+                },
+                {
+                    "nom": "Nicolas Blasquez",
+                    "image": "/images/nicolas_b.jpg"
                 }
             ]
         },
@@ -21,6 +25,46 @@
                 {
                     "nom": "Cédric Béjuis",
                     "image": "/images/cedric.png"
+                }
+            ]
+        },
+        {
+            "course": "CLM Culoz - Individuel",
+            "date": "2024-10-27",
+            "departement": "69",
+            "federation": "FSGT",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
+                },
+                {
+                    "nom": "Nicolas Blasquez",
+                    "image": "/images/nicolas_b.jpg"
+                },
+                {
+                    "nom": "Pascal Da Costa Barros",
+                    "image": "/images/pascal.jpg"
+                }
+            ]
+        },
+        {
+            "course": "CLM Culoz - Gentlemen 1",
+            "date": "2024-10-27",
+            "departement": "69",
+            "federation": "FSGT",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
+                },
+                {
+                    "nom": "Nicolas Blasquez",
+                    "image": "/images/nicolas_b.jpg"
+                },
+                {
+                    "nom": "Pascal Da Costa Barros",
+                    "image": "/images/pascal.jpg"
                 }
             ]
         }
