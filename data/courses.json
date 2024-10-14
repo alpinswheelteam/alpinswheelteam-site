@@ -1,34 +1,6 @@
 {
     "courses": [
         {
-            "course": "CLM du Poulet",
-            "date": "2024-10-13",
-            "departement": "69",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                },
-                {
-                    "nom": "Nicolas Blasquez",
-                    "image": "/images/nicolas_b.jpg"
-                }
-            ]
-        },
-        {
-            "course": "CLM du Poulet - Gentlemen ",
-            "date": "2024-10-13",
-            "departement": "69",
-            "federation": "FSGT",
-            "coureurs": [
-                {
-                    "nom": "Cédric Béjuis",
-                    "image": "/images/cedric.png"
-                }
-            ]
-        },
-        {
             "course": "CLM Culoz - Individuel",
             "date": "2024-10-27",
             "departement": "69",
