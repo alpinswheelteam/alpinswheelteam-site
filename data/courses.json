@@ -39,6 +39,18 @@
                     "image": "/images/pascal.jpg"
                 }
             ]
+        },
+        {
+            "course": "Gentlemen des Champions",
+            "date": "2024-11-02",
+            "departement": "69",
+            "federation": "FSGT",
+            "coureurs": [
+                {
+                    "nom": "Cédric Béjuis",
+                    "image": "/images/cedric.png"
+                }
+            ]
         }
     ]
 }
