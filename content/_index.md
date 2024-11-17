@@ -14,7 +14,7 @@ Une interview de Nicolas Blasquez sera diffusée le 23 novembre 2024 à 18h. [Yo
 
 {{< rawhtml >}} 
 
-<video width=60% controls autoplay>
+<video width=60% controls autoplay poster="/images/poster_nicolasb.png">
     <source src="/videos/nicolasb.mp4" type="video/webm">
     Your browser does not support the video tag.  
 </video>
