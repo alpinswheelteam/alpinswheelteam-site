@@ -59,26 +59,27 @@
     {
         "nom": "Nicolas Blasquez",
         "fsgt": "3",
+        "ufolep": "2",
         "image": "/images/nicolas_b.jpg",
         "role": "Coureur"
     },
     {
-        "nom": "Amaury Busato",
+        "nom": "Luca Blasquez",
         "ufolep": "2",
         "image": "/images/homme.jpeg",
         "role": "Coureur"
+    },
+    {
+        "nom": "Tristan Brousset",
+        "ufolep": "2",
+        "image": "/images/homme.jpeg",
+        "role": "Coureuse"
     },
     {
         "nom": "Nicolas Christoph",
         "ufolep": "3",
         "image": "/images/homme.jpeg",
         "role": "Coureur"
-    },
-    
-    {
-        "nom": "Erwan Delriu",
-        "image": "/images/homme.jpeg",
-        "role": "Bénévole"
     },
     {
         "nom": "Agnès Hertault",
@@ -98,5 +99,6 @@
         "ufolep": "3",  
         "image": "/images/guillaume.jpg",
         "role": "Coureur"
-    }]
+    }
+]
 }

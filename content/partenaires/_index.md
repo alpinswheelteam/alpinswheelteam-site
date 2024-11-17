@@ -12,7 +12,3 @@ Alpins's Wheel : Artisan / Fabricant de roues de vélo, handbike, sur mesure et 
 DMTEX : Le spécialiste du textile cycliste. 
 
 [![DMTEX](/images/dmtex.jpg)](https://dmtex-sport.com/)
-
-The Factory : Spécialiste en design et communication visuelle.
-
-![DMTEX](/images/factory.png)

@@ -8,11 +8,20 @@ _Alpin's Wheel Team_ est un club cycliste amateur Isérois affilié aux fédéra
 
 Suivez-nous sur les réseaux sociaux pour toute l'actualité du club : {{< social >}}
 
-## Prochains rendez-vous de la team
+## Actualités
 
-{{< courses >}}
+Une interview de Nicolas Blasquez sera diffusée le 23 novembre 2024 à 18h. [Youtube](https://www.youtube.com/@Nicoblasquez) ,  [Facebook](https://www.facebook.com/p/Mairie-de-Lapalud-100081214936074/?locale=fr_FR)
+
+{{< rawhtml >}} 
+
+<video width=60% controls autoplay>
+    <source src="/videos/nicolasb.mp4" type="video/webm">
+    Your browser does not support the video tag.  
+</video>
+
+{{< /rawhtml >}}
 
 
-## Nous rejoindre
+<!-- ## Prochains rendez-vous de la team
 
-Nous sommes actuellement ouverts au recrutement de nouveaux membres. Alors si vous cherchez un groupe pour pratiquer le cyclisme dans la bonne humeur et le respect des valeurs sportives, n'hésitez pas à nous contacter [par mail](mailto:alpinswheel.team@gmail.com), sur facebook, ou directement via un membre du club.
+{{< courses >}} -->
