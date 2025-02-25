@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 import numpy as np 
-url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR054bKX_g-UGoIV-YAlsPUX0Lpz9OA-Na0DqWNi1ixzFFQ4AUE6wJVuFqFUTX9Tt04pyJJF7yJfWYb/pub?gid=1022985253&single=true&output=csv"
+url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR054bKX_g-UGoIV-YAlsPUX0Lpz9OA-Na0DqWNi1ixzFFQ4AUE6wJVuFqFUTX9Tt04pyJJF7yJfWYb/pub?gid=473803918&single=true&output=csv"
 df = pd.read_csv(url, index_col=0).T
 df.pop(df.columns[-1])
 
@@ -15,6 +15,7 @@ df = df[df["DATE"] < pd.Timestamp.now() + 2 * pd.offsets.Week()]
 df = df.sort_values("DATE")
 #df = df[:4]
 
+breakpoint()
 membres_site = json.load(open("data/membres.json"))["membres"]
 
 result = {}

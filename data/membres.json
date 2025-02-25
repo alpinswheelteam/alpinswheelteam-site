@@ -1,19 +1,19 @@
 { "membres": [
     {
         "nom": "Aline Marguet",
-        "ffc": "Collectif Féminin Isère",
+        "ufolep": "3",
         "image": "/images/aline.jpg",
         "role": "Présidente"
     },
     {
         "nom": "Céline Schuller",
-        "ffc": "Collectif Féminin Isère",
+        "ufolep": "3",
         "image": "/images/celine_s_porte.jpg",
         "role": "Secrétaire"
     },
     {
         "nom": "Timothée Wintz",
-        "ffc": "Open 3",
+        "ffc": "Access 1",
         "ufolep": "1",
         "image": "/images/tim.jpg",
         "role": "Trésorier"
@@ -40,20 +40,13 @@
         "nom": "Thierry Agud",
         "image": "/images/thierry_a.jpg",
         "role": "Coureur",
-        "ufolep": "2",
-        "ffc": "Access"
+        "ufolep": "2"
     },
     {
         "nom": "Cédric Béjuis",
         "ffc": "Access 2",
         "fsgt": "2",
         "image": "/images/cedric.png",
-        "role": "Coureur"
-    },
-    {
-        "nom": "Jules Béjuis",
-        "ffc": "U13",
-        "image": "/images/jules.png",
         "role": "Coureur"
     },
     {
@@ -82,6 +75,12 @@
         "role": "Coureur"
     },
     {
+        "nom": "Killian Dray",
+        "ufolep": "1",
+        "image": "/images/homme.jpeg",
+        "role": "Coureur"
+    },
+    {
         "nom": "Agnès Hertault",
         "ufolep": "F",
         "ffc": "Access",
@@ -92,12 +91,6 @@
         "nom": "Kevin Matic",
         "ffc": "Access 2",
         "image": "/images/homme.jpeg",
-        "role": "Coureur"
-    },
-    {
-        "nom": "Guillaume Tramond",
-        "ufolep": "3",  
-        "image": "/images/guillaume.jpg",
         "role": "Coureur"
     }
 ]
