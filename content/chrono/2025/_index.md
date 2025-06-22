@@ -6,8 +6,7 @@ weight: 1
 
 ## Edition 2025
 
-L'édition 2025 du Chrono du Vercors aura lieu le 21 Juin 2025. Nouveauté cette année, une récompense pour les plus rapides sur vélos traditionnels, sans prolongateurs ou roue lenticulaires.
-
+L'édition 2025 du Chrono du Vercors a eu lieu le 21 Juin 2025. 
 
 Les résultats sont en ligne :
 
