@@ -6,18 +6,26 @@
             "role": "Président"
         },
         {
-            "nom": "Aline Marguet",
-            "ufolep": "4",
-            "image": "/images/aline.jpg",
-            "role": "Membre"
-        },
-        {
             "nom": "Timothée Wintz",
             "ffc": "Access 1",
             "ufolep": "1",
             "image": "/images/tim.jpg",
             "role": "Trésorier"
         },
+        {
+            "nom": "Tristan Brousset",
+            "ufolep": "2",
+            "ffc": "Access 2",
+            "image": "/images/homme.jpeg",
+            "role": "Secrétaire"
+        },
+        {
+            "nom": "Aline Marguet",
+            "ufolep": "4",
+            "image": "/images/aline.jpg",
+            "role": "Membre"
+        },
+
         {
             "nom": "Céline Derain",
             "fsgt": "F",
@@ -58,13 +66,7 @@
             "image": "/images/homme.jpeg",
             "role": "Coureur"
         },
-        {
-            "nom": "Tristan Brousset",
-            "ufolep": "2",
-            "ffc": "Access 2",
-            "image": "/images/homme.jpeg",
-            "role": "Coureuse"
-        },
+
         {
             "nom": "Sébastien Verdier",
             "ufolep": "1",
