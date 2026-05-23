@@ -97,6 +97,12 @@
             "ufolep": "3",
             "image": "/images/homme.jpeg",
             "role": "Coureur"
+        },
+        {
+            "nom": "Xavier Pellerin",
+            "ufolep": "1",
+            "image": "/images/homme.jpeg",
+            "role": "Coureur"
         }
     ]
 }
